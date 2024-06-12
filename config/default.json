@@ -1,4 +1,4 @@
 {
     "mongoURI" : "mongodb+srv://anishv128:anishv128@cluster0.5rzo2tf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/URL-shortener",
-    "baseURL" : "http://localhost:5000"
+    "baseURL" : "https://url-shortener-api-wfjf.onrender.com"
 }
